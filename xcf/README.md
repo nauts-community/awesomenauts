@@ -1,0 +1,1 @@
+Directory used for eXperimental Computing Facility files used by GIMP as project files
